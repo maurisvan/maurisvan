@@ -30,7 +30,7 @@
 - 🎓 SQL Server – Udemy e Prime Cursos  
 - 🎓 Scrum Foundation – CertiProf  
 - 🎓 LGPD, Segurança da Informação e Governança de Dados – Be Compliance  
-- 🎓 +20 cursos complementares voltados para dados, BI e segurança
+- 🎓 +20 cursos complementares voltados para dados, BI e segurança. (Todos os diplomas anexados no meu linkedin)
 
 ---
 
