@@ -48,7 +48,7 @@ Veja os projetos no repositório 👉 [github.com/maurisvan](https://github.com/
 
 📧 maurisvan2009@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/maurisvan-alves)  
-💻 [Portfólio Técnico Completo](https://github.com/maurisvan/portfolio-dba-pleno)
+💻 [Portfólio Técnico Completo](https://github.com/maurisvan/portfolio)
 
 ---
 
