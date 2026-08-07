@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Maurisvan Alves!
 
-🎯 DBA Pleno com foco em ambientes críticos, performance e segurança de dados.  
+🎯 DBA Sênior com foco em ambientes críticos, performance e segurança de dados.  
 🎓 Pós-graduado em Ciência de Dados e Engenharia de Software.  
 📘 Em preparação para a certificação Microsoft DP-300.  
 👨‍🏫 Professor de Tecnologia no Instituto SIESP.
