@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Maurisvan Alves!
 
 🎯 DBA Sênior com foco em ambientes críticos, performance e segurança de dados.  
-🎓 Superior em Análise e Desenvolvimento de Sistemas
+🎓 Superior em Análise e Desenvolvimento de Sistemas.
 🎓 Pós-graduado em Ciência de Dados, Engenharia de Software e Data Analytics.  
 📘 Em preparação para a certificação Microsoft DP300 e DP900.  
 
